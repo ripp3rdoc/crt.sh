@@ -1,7 +1,6 @@
 #!/bin/bash
 #
-# crt.sh sub-domain check by 1N3@CrowdShield
-# https://crowdshield.com 
+# crt.sh sub-domain check forked from 1N3@CrowdShield
 #
 
 OKBLUE='\033[94m'
